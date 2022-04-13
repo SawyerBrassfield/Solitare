@@ -1,0 +1,13 @@
+#box {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+#box2 {
+    background-color: blue;
+    height: 500px;
+    width: 300px;
+    position: relative;
+    left: 500px
+}
